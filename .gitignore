@@ -3,3 +3,6 @@
 ################################################################################
 
 /regressionLiniaire/obj/Debug
+/Package.nuspec
+*.exe
+/regressionLiniaire/Properties
